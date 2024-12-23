@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.imdd{
+    width: 25%;
+}
+#head{
+    z-index: -1;
+    height: 100vh;
+    background: url('images/bg.jpg') center center/cover fixed;
+    filter: brightness(90%);
+}
+#nav{
+    margin-bottom: 50px;
+    z-index: 11111111;
+    top:0;
+    width: 100%;
+    position: fixed;
+    background-color: aliceblue;
+    box-shadow: 0 10px 10px rgb(0, 94, 255);
+}
+#sec1content{
+   /* margin-left: 45%;  */
+}
+#text{
+    color: ;
+    margin-top: 5%;
+    z-index: 1000;
+}
+.hk{
+    margin-top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px black;
+}
+
+footer img{
+    width: 30px;
+}
